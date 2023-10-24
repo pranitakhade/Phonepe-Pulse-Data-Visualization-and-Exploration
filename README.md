@@ -44,4 +44,10 @@ Overall, the result of this project will be a comprehensive and user-friendly so
 
 ![App Screenshot](https://github.com/pranitakhade/Phonepe_Pulse_Data_Visualization_and_Exploration/blob/main/screenshots/2.png)
 
+![App Screenshot](https://github.com/pranitakhade/Phonepe_Pulse_Data_Visualization_and_Exploration/blob/main/screenshots/3.png)
+
+![App Screenshot](https://github.com/pranitakhade/Phonepe_Pulse_Data_Visualization_and_Exploration/blob/main/screenshots/4.png)
+
+![App Screenshot](https://github.com/pranitakhade/Phonepe_Pulse_Data_Visualization_and_Exploration/blob/main/screenshots/5.png)
+
 
