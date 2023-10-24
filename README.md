@@ -42,3 +42,6 @@ Users will be able to access the dashboard from a web browser and easily navigat
 
 Overall, the result of this project will be a comprehensive and user-friendly solution for extracting, transforming, and visualizing data from the Phonepe pulse Github repository.
 
+![App Screenshot](https://github.com/pranitakhade/Phonepe_Pulse_Data_Visualization_and_Exploration/blob/main/screenshots/2.png)
+
+
