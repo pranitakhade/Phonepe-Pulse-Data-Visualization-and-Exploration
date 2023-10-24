@@ -37,4 +37,9 @@ Users will be able to access the dashboard from a web browser and easily navigat
 
 Overall, the result of this project will be a comprehensive and user-friendly solution for extracting, transforming, and visualizing data from the Phonepe pulse Github repository.
 
-[Data Set](https://github.com/PhonePe/pulse#readme)
+### Dataset:
+Dataset Link: [Data Set](https://github.com/PhonePe/pulse#readme)
+
+###Inspired From : [PhonePe Pulse](https://www.phonepe.com/pulse/explore/transaction/2022/4/)
+
+
