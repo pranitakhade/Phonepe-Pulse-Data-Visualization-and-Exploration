@@ -1,4 +1,4 @@
-# Phonepe Pulse Data Visualization and Exploration
+![image](https://mma.prnewswire.com/media/1607489/PhonePe_Logo.jpg ) # Phonepe Pulse Data Visualization and Exploration
 
 ![image](https://mma.prnewswire.com/media/1607489/PhonePe_Logo.jpg )
 ![alt text](https://mma.prnewswire.com/media/1607487/PhonePe_Pulse.jpg)
