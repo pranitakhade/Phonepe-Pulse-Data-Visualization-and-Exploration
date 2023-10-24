@@ -40,6 +40,6 @@ Overall, the result of this project will be a comprehensive and user-friendly so
 ### Dataset:
 Dataset Link: [Data Set](https://github.com/PhonePe/pulse#readme)
 
-###Inspired From : [PhonePe Pulse](https://www.phonepe.com/pulse/explore/transaction/2022/4/)
-
+###Inspired From : 
+PhonePe Pulse : [PhonePe Pulse](https://www.phonepe.com/pulse/explore/transaction/2022/4/)
 
